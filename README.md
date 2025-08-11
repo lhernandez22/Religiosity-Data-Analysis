@@ -31,6 +31,6 @@ Also ran interaction models to test whether the effect of social media usage var
 - Platform effects differ across religious groups, with Facebook showing the most variation.
 
 ## Files
-- Report: 'Religiosity Research Analysis'
+- Report: 'Religiosity Research Analysis Final'
 - STATA Code: A12Final.do
 - Dataset: GSS2016
