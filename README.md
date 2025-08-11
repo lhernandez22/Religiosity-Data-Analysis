@@ -30,6 +30,6 @@ Also ran interaction models to test whether the effect of social media usage var
 - Age remains the most significant predictor; older individuals attend more frequently.
 - Platform effects differ across religious groups, with Facebook showing the most variation.
 
-## Files (check)
+## Files
 - Report: 'Religiosity Research Analysis'
 - STATA Code: A12.do
