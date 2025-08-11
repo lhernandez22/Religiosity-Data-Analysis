@@ -5,7 +5,7 @@
 - R, OLS Regression, General Social Survey (GSS)
 
 ## Dataset
-- Source: General Social Survey (to big to insert)
+- Source: General Social Survey 
 - 1,367 observations
 - Key variables:
   - `attend` — frequency of attending religious services (dependent variable)
@@ -32,4 +32,5 @@ Also ran interaction models to test whether the effect of social media usage var
 
 ## Files
 - Report: 'Religiosity Research Analysis'
-- STATA Code: A12.do
+- STATA Code: A12Final.do
+- Dataset: GSS2016
